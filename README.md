@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iamdevhooman
 - 👀 I’m interested in development activities and coding
 - 🌱 I’m currently learning java and react.js 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my email : priyams3006@gmail.com
 
 <!---
